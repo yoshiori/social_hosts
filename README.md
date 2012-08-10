@@ -1,4 +1,4 @@
-sosial_hosts
+social_hosts
 ============
 
 みんなで変なところは弾く hosts ファイルを共有しましょう。
