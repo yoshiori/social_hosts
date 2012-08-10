@@ -1,0 +1,7 @@
+##
+# see https://github.com/yoshiori/social_hosts
+##
+127.0.0.1       localhost
+
+# see http://blog.tokumaru.org/2012/08/t-point-toolbar-is-harmful.html
+127.0.0.1       log.opt.ne.jp
